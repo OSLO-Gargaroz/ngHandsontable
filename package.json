@@ -13,7 +13,7 @@
   "version": "0.13.0",
   "dependencies": {
     "angular": "^1.5.0",
-    "handsontable": "^0.28.0"
+    "handsontable": "github:OSLO-Gargaroz/handsontable#oslo_handsontable"
   },
   "devDependencies": {
     "angular": "^1.5.0",
@@ -36,6 +36,7 @@
     "karma-phantomjs-launcher": "^1.0.0",
     "phantomjs-prebuilt": "^2.1.4"
   },
+  "main": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/grunt build-release",
     "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS",
