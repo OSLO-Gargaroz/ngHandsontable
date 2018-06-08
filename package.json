@@ -13,7 +13,7 @@
   "version": "0.13.0",
   "dependencies": {
     "angular": "^1.5.0",
-    "handsontable": "github:OSLO-Gargaroz/handsontable#oslo_handsontable"
+    "handsontable": "OSLO-Gargaroz/handsontable#oslo_handsontable"
   },
   "devDependencies": {
     "angular": "^1.5.0",
