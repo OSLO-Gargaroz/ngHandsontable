@@ -36,6 +36,7 @@
     "karma-phantomjs-launcher": "^1.0.0",
     "phantomjs-prebuilt": "^2.1.4"
   },
+  "main": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/grunt build-release",
     "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS",
